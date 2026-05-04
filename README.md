@@ -1,6 +1,7 @@
 # Cifra de Vigenère — Criptografia e Criptoanálise
 
 Trabalho 1 de Segurança de Sistemas — PUCRS
+Alunos: João Coelho, Matheus Berwaldt e Vitor Kepeler
 
 Implementação em Java da Cifra de Vigenère (criptografia) e de um algoritmo de criptoanálise capaz de quebrar a cifra sem conhecer a senha.
 
